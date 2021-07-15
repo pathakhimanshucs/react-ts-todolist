@@ -15,7 +15,7 @@ export default function TodoList({todos, toggleTodo, showHidden}: TodoListProps)
                     return todo;
                 }else{
                     if(todo.complete){
-                        return;
+                        return null;
                     }else{
                         return todo;
                     }
