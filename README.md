@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# TODOS
+
+Simple dark mode TODO app created in React with Typescript.
+
+Live preview [here](https://react-ts-todolist.vercel.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
