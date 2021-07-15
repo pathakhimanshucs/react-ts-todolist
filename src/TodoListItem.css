@@ -1,0 +1,10 @@
+.complete{
+    text-decoration: line-through;
+}
+
+input:checked + div {
+    @apply border-blue-600;
+  }
+  input:checked + div svg {
+    @apply block;
+  }
